@@ -15,7 +15,7 @@
   - Flutter 개발 및 유지보수
   - 다양한 공공 데이터 및 Firebase 연동
   - `Room`, `AlarmManager`, `Foreground Service` 등을 활용한 서비스 구축
-  - 윈도우 프로그램(MFC)
+  - 윈도우 프로그램(MFC/C#)
 - ✨ 흥미 있는 분야: Android, iOS, Flutter
 
 ---
