@@ -11,7 +11,7 @@
 - 🔭 현재 학습 중: **Jetpack Compose, Flutter 고급 기능**
 - ⚒️ 사용 기술: Kotlin, Java, Flutter(Dart), Swift, C#, MFC, Retrofit, Firebase 등
 - 📚 개발 경험:
-  - Android / iOS 하이브리드 앱 개발 및 유지보수
+  - Android / iOS 앱 개발 및 유지보수
   - Flutter 개발 및 유지보수
   - 다양한 공공 데이터 및 Firebase 연동
   - `Room`, `AlarmManager`, `Foreground Service` 등을 활용한 서비스 구축
