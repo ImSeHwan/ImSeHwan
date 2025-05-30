@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 현재 학습 중: **Jetpack Compose, Flutter 고급 기능**
+- 🔭 현재 학습 중: **Flutter 기본/고급 기능**
 - ⚒️ 사용 기술: Kotlin, Java, Flutter(Dart), Swift, C#, MFC, Retrofit, Firebase 등
 - 📚 개발 경험:
   - Android / iOS 앱 개발 및 유지보수
